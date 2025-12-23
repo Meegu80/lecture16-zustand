@@ -1,6 +1,6 @@
 import {twMerge} from "tailwind-merge";
 import {Link} from "react-router";
-import {useThemeStore} from "../stores/useThemeStore.tsx";
+import {useThemeStore} from "../../stores/useThemeStore.tsx";
 import {FiMoon, FiSun} from "react-icons/fi";
 import {useEffect} from "react";
 

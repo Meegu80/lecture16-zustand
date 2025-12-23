@@ -4,7 +4,7 @@ import {Route, Routes} from "react-router";
 import SignIn from "./pages/SignIn.tsx";
 import SignUp from "./pages/SignUp.tsx";
 import TodoPage from "./pages/TodoPage.tsx";
-import NavBar from "./components/NavBar.tsx";
+import NavBar from "./components/common/NavBar.tsx";
 
 function App() {
     
